@@ -2,7 +2,7 @@
 
     "login": { 
      
-        "token": "ODAyNTYzNTIxNzY5MzczNjk2.YAxDhg.aGyP9TX9ckJfsf5Tqr612tLBboc"
+        "token": "ODAyNTYzNTIxNzY5MzczNjk2.YAxDhg.IX414nEFBdQST_h5vpI_qM0GDDs"
 
     },
     "bot": { 
